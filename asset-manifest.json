@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31a2c451.css",
+    "main.js": "/static/js/main.644258f8.js",
+    "static/media/gobook_logo3.png": "/static/media/gobook_logo3.8eda24241369016a341d.png",
+    "static/media/meetingsample.jpg": "/static/media/meetingsample.9a3ce5969be8abe4737a.jpg",
+    "static/media/book3.jpg": "/static/media/book3.b792aa2cc19b4870902f.jpg",
+    "static/media/book4.jpg": "/static/media/book4.5c6edbdc0ee93765a4b8.jpg",
+    "static/media/book1.jpg": "/static/media/book1.686b0d0cac03ffce7d4b.jpg",
+    "static/media/book5.jpg": "/static/media/book5.1e84d0eb4771ffbfa14e.jpg",
+    "static/media/book2.jpg": "/static/media/book2.96ed1c3610a133d39776.jpg",
+    "index.html": "/index.html",
+    "main.31a2c451.css.map": "/static/css/main.31a2c451.css.map",
+    "main.644258f8.js.map": "/static/js/main.644258f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a2c451.css",
+    "static/js/main.644258f8.js"
+  ]
+}
